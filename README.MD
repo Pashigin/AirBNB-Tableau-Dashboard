@@ -33,6 +33,6 @@ To show the top 10 listings and neighborhoods, I wanted to use Multiple Column O
 
 You can find the dashboard in [Tableau Public](https://public.tableau.com/views/AirBNBLondon2019/LondonDashboard?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
-![Dashboard](screenshots/Dashboard.png)
-![Dashboard Neighborhood](<screenshots/Dashboard Neighborhood.png>)
-![Dashboard Listings](<screenshots/Dashboard Listings.png>)
+![Dashboard](Screenshots/Dashboard.png)
+![Dashboard Neighborhood](<Screenshots/Dashboard Neighborhood.png>)
+![Dashboard Listings](<Screenshots/Dashboard Listings.png>)
