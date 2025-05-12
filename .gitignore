@@ -1,1 +1,8 @@
+# Игнорировать большие файлы и данные
+*.twb
+*.twbx
+*.csv
+/data/
+AirBNB London 2019.twb
+AirBNB London 2019.twbx
 .DS_Store
